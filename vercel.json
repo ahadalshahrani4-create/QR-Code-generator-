@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/QR-Code-generator/(.*)",
+      "destination": "/$1"
+    }
+  ]
+}
